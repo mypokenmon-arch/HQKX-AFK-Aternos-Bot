@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "saury.aternos.host:16081",
+    "ip": "dubssmp.aternos.me",
     "port": 16081,
     "version": "",
     "try-creative": false
